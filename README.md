@@ -22,5 +22,5 @@ Set "Copy to output directory" to "Always" for the appsettings.json file so Conf
   </None>
 </ItemGroup>
 ```
-Or forget about that hassle with ConfigurationBuilder and just pass your credentials directly to the 'email' and 'password' variables in code.
+Or forget about that hassle with ConfigurationBuilder and just pass your credentials directly to the 'email' and 'password' variables in code.<br>
 4. Build and launch the project.
